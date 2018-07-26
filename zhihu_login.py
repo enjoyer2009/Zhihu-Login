@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'zkqiang'
-__zhihu__ = 'https://www.zhihu.com/people/z-kqiang'
-__github__ = 'https://github.com/zkqiang/Zhihu-Login'
 
 import requests
 import time
